@@ -1,0 +1,2 @@
+git remote add origin https://github.com/ramitop345/Angular-and-Typescript.git
+git add -M main     to set branch main as main-branch instead of master
